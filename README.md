@@ -21,9 +21,9 @@ He/Him.
 - [Curriculum Lattes (Platform for Brazilian researchers)](http://lattes.cnpq.br/5215999364926772)
 
 ### :speech_balloon: Ask me about
-- Pretty much anything...<sup>[1](#myfootnote1)</sup>
+- Pretty much anything...<sup>1</sup>
 
-<a name="myfootnote1"><sup>1</sup></a> Correct answers not guaranteed :sweat_smile:. 
+<sup>1</sup> Correct answers not guaranteed :sweat_smile:.
 
 ### :zap: Fun fact
 - Star Wars' fan (still sad for the last trilogy)
@@ -49,4 +49,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### :speech_balloon: Ask me about
+- Pretty much anything...<sup>[1](#myfootnote1)</sup>
+
+<a name="myfootnote1"><sup>1</sup></a> Correct answers not guaranteed :sweat_smile:. 
 -->
