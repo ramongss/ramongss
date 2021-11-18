@@ -1,6 +1,8 @@
-# Hello there :wave:
+# `> Hello, World!` :wave:
 
-I am _Ramon G. da Silva_ [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></img>][RamonID], PhD student in Computational Intelligence from _Pontifical Catholic University of Paraná_ (PUCPR) in Brazil, MSc. in Operations Management from PUCPR in 2019, and Bachelor of Industrial Engineering from _State University of Pará_ (UEPA) in 2016 with exchange at _University of Southern Indiana_ (USI) in 2014. I am an industrial engineering undergraduate professor :mortar_board: and a data science :game_die: enthusiast, currently working on time series forecasting applications with artificial intelligence/machine learning approaches using [_R language_](https://www.r-project.org/) #rstats :bar_chart:.
+I am _Ramon G. da Silva_, PhD student in the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board:, and Data Scientist at [Hilab (HealthTech Startup)](https://hilab.com.br/en/) :man_health_worker:. 
+
+I've been researching on applications of machine learning and artificial intelligence approaches to time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: [Wind energy of a turbine in a wind farm in Brazil](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817); [COVID-19 cases in Brazil and USA context coupled with meteorological variables](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252); and [Cryptocurrecy (Bitcoin) price over time](https://ieeexplore.ieee.org/document/9207152). 
 
 ### :smile: Pronouns
 He/Him.
@@ -16,7 +18,6 @@ He/Him.
 ### :mailbox: How to reach me?
 - [Twitter](https://twitter.com/ramongss) 
 - [LinkedIn](https://www.linkedin.com/in/ramongomesdasilva/) 
-- [ORCiD][RamonID]
 - [My personal portfolio](https://ramongss.github.io)
 - [Curriculum Lattes (Platform for Brazilian researchers)](http://lattes.cnpq.br/5215999364926772)
 
@@ -33,8 +34,6 @@ He/Him.
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/ramongss/count.svg" />
 </p>
-
-[RamonID]: https://orcid.org/0000-0001-8580-7695
 
 <!--
 **ramongss/ramongss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
