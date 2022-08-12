@@ -1,19 +1,18 @@
 # `> Hello, World!` :wave:
 
-I am _Ramon G. da Silva_, PhD student in the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board:, and Data Scientist at [Hilab (HealthTech Startup)](https://hilab.com.br/en/) :man_health_worker:. 
+I am _Ramon_, a PhD candidate in Computational Intelligence at the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board: and Data Scientist at [Banco Bradesco](https://www.linkedin.com/company/bradesco/) :moneybag::man_technologist:. 
 
-I've been researching on applications of machine learning and artificial intelligence approaches to time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: [Wind energy of a turbine in a wind farm in Brazil](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817); [COVID-19 cases in Brazil and USA context coupled with meteorological variables](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252); and [Cryptocurrecy (Bitcoin) price over time](https://ieeexplore.ieee.org/document/9207152). 
+I've been researching on applications of machine learning and artificial intelligence approaches for time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: Wind energy of a turbine in a wind farm in Brazil [[1](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817), [2](https://www.sciencedirect.com/science/article/abs/pii/S0142061522005051)]; COVID-19 cases in Brazil and USA context coupled with meteorological variables [[3](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252)]; Supply chain management (retail sales) [[4](https://sbic.org.br/eventos/cbic_2021/cbic2021-25/)]; and Cryptocurrency (Bitcoin) price over time [[5](https://ieeexplore.ieee.org/document/9207152)]. 
 
 ### :smile: Pronouns
 He/Him.
 
 ### :seedling: I'm currently learning (always learning)
 - R #rstats :large_blue_circle:
-- Data visualization (ggplot, tidyverse, etc.) :chart_with_upwards_trend:
-- Statistics :1234:
-
-### :thinking: I'm looking for help with
 - Python :snake:
+- Machine learning (caret, tidymodels, scikit-learn, etc.) :robot:
+- Data visualization (ggplot2, tidyverse, etc.) :chart_with_upwards_trend:
+- Statistics :1234:
 
 ### :mailbox: How to reach me?
 - [Twitter](https://twitter.com/ramongss) 
