@@ -7,27 +7,28 @@ I've been researching on applications of machine learning and artificial intelli
 ### :smile: Pronouns
 He/Him.
 
-### :seedling: I'm currently learning (always learning)
-- R #rstats :large_blue_circle:
-- Python :snake:
-- Machine learning (caret, tidymodels, scikit-learn, etc.) :robot:
-- Data visualization (ggplot2, tidyverse, etc.) :chart_with_upwards_trend:
-- Statistics :1234:
+### :seedling: I'm Always Learning
+- :snake: Python
+- :large_blue_circle: R #rstats
+- :1234: Statistics and Data Science
+- :robot: Machine learning (caret, tidymodels, scikit-learn, etc.) 
+- :chart_with_upwards_trend: Data visualization (ggplot2, tidyverse, etc.)
+- :cloud: Cloud Services
 
-### :mailbox: How to reach me?
+### :mailbox: How to Reach Me?
 - [Twitter](https://twitter.com/ramongss) 
 - [LinkedIn](https://www.linkedin.com/in/ramongomesdasilva/) 
 - [My personal portfolio](https://ramongss.github.io)
 - [Curriculum Lattes (Platform for Brazilian researchers)](http://lattes.cnpq.br/5215999364926772)
 
-### :speech_balloon: Ask me about
+### :speech_balloon: Ask Me About
 - Pretty much anything...<sup>1</sup>
 
 <sup>1</sup> Correct answers not guaranteed :sweat_smile:.
 
-### :zap: Fun fact
+### :zap: Fun Fact
 - Star Wars' fan (still sad for the last trilogy)
-- I have a couple of singles with my ex-band as guitar player :guitar: on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw)
+- I have a couple of singles with my former band as guitar player :guitar: on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw)
 
 <p align="center"> 
   Visitors count<br>
