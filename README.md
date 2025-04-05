@@ -1,13 +1,21 @@
-# `> Hello, World!` :wave:
+# :wave: `> Hello, World!`
 
-I am _Ramon_, a PhD in Computational Intelligence at the [Industrial and Systems Engineering Graduate Program - PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board: and Data Scientist at [Banco Bradesco](https://www.linkedin.com/company/bradesco/) :moneybag::man_technologist:. 
+I am **Ramon**, a Ph.D. in Computational Intelligence from the [Industrial and Systems Engineering Graduate Program at PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board: and currently working as a Data Scientist at [Banco Bradesco](https://www.linkedin.com/company/bradesco/) :moneybag::man_technologist:.
 
-I've been researching on applications of machine learning and artificial intelligence approaches for time series forecasting :chart_with_upwards_trend:. Some applications of forecasting in diverse datasets, such as: Wind energy of a turbine in a wind farm in Brazil [[1](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817), [2](https://www.sciencedirect.com/science/article/abs/pii/S0142061522005051)]; COVID-19 cases in Brazil and USA context coupled with meteorological variables [[3](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252)]; Supply chain management (retail sales) [[4](https://sbic.org.br/eventos/cbic_2021/cbic2021-25/)]; and Cryptocurrency (Bitcoin) price over time [[5](https://ieeexplore.ieee.org/document/9207152)]. 
+### :page_with_curl: Research Focus
+
+My research focuses on applying machine learning and artificial intelligence techniques to time series forecasting :chart_with_upwards_trend:. I've worked on a variety of use cases, including:
+
+- **Wind Energy Forecasting** in Brazilian wind farms [[1](https://www.sciencedirect.com/science/article/abs/pii/S0360544220322817), [2](https://www.sciencedirect.com/science/article/abs/pii/S0142061522005051)].
+- **COVID-19 Case Forecasting** with meteorological data in Brazil and the USA [[3](https://www.sciencedirect.com/science/article/abs/pii/S0960077920304252)].
+- **Retail Sales Forecasting** for supply chain management [[4](https://sbic.org.br/eventos/cbic_2021/cbic2021-25/)].
+- **Bitcoin Price Analysis** over time [[5](https://ieeexplore.ieee.org/document/9207152)]. 
 
 ### :smile: Pronouns
 He/Him.
 
-### :seedling: I'm Always Learning
+### :seedling: Always Learning
+
 - :snake: Python
 - :large_blue_circle: R #rstats
 - :1234: Statistics and Data Science
@@ -15,11 +23,11 @@ He/Him.
 - :chart_with_upwards_trend: Data visualization (ggplot2, tidyverse, etc.)
 - :cloud: Cloud Services
 
-### :mailbox: How to Reach Me?
-- [Twitter](https://twitter.com/ramongss) 
+### :mailbox: Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/ramongomesdasilva/) 
 - [My personal portfolio](https://ramongss.github.io)
-- [Curriculum Lattes (Platform for Brazilian researchers)](http://lattes.cnpq.br/5215999364926772)
+- [My professional CV](https://ramongss.github.io/curriculum/)
+- [Curriculum Lattes (Brazilian researcher CV)](http://lattes.cnpq.br/5215999364926772)
 
 ### :speech_balloon: Ask Me About
 - Pretty much anything...<sup>1</sup>
@@ -27,8 +35,8 @@ He/Him.
 <sup>1</sup> Correct answers not guaranteed :sweat_smile:.
 
 ### :zap: Fun Fact
-- Star Wars' fan (still sad for the last trilogy)
-- I have a couple of singles with my former band as guitar player :guitar: on [Spotify](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw)
+- Huge Star Wars fan (still recovering from the last trilogy...)
+- Released a couple of singles as a guitarist -- [listen on Spotify :guitar:](https://open.spotify.com/artist/5H5Ht9iimWk5MVXMQV3Ta9?si=yriOrXVKScSGYsjDfVdEUw)
 
 <p align="center"> 
   Visitors count<br>
