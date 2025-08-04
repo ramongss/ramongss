@@ -1,6 +1,6 @@
 # :wave: `> Hello, World!`
 
-I am **Ramon**, a Ph.D. in Computational Intelligence from the [Industrial and Systems Engineering Graduate Program at PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/) :mortar_board: and currently working as a Data Scientist at [Banco Bradesco](https://www.linkedin.com/company/bradesco/) :moneybag::man_technologist:.
+I am **Ramon**, a Ph.D. in Artificial Intelligence and Data Science :mortar_board: and currently working as a Research Professor at the [Industrial and Systems Engineering Graduate Program at PUCPR](https://www.pucpr.br/escola-politecnica/industrial-and-systems/):man_technologist:.
 
 ### :page_with_curl: Research Focus
 
